@@ -16,6 +16,7 @@ The focus of this project was to create a readme generator markdown file that is
 ## Installation
 
 Node.js
+Inquirer package
 
 ## Usage
 
